@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WooCommerce Category Carousel
-Plugin URI:  https://github.com/your-repo/category-carousel
+Plugin URI:  https://github.com/roghithsam/woocommerce-category-carousel/
 Description: A customizable carousel to display WooCommerce product categories using Owl Carousel.
 Version:     1.0
-Author:      Your Name
-Author URI:  https://your-website.com
+Author:      Roghithsam
+Author URI:  https://roghithsam.zhark.in/
 License:     MIT
 License URI: https://opensource.org/licenses/MIT
 Text Domain: category-carousel
